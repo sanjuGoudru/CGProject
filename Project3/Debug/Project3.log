@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\win10\source\repos\Project3\Project3\main.cpp(134,86): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\win10\source\repos\Project3\Project3\main.cpp(134,62): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\win10\source\repos\Project3\Project3\main.cpp(134,40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\win10\source\repos\Project3\Project3\main.cpp(134,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\win10\source\repos\Project3\Project3\main.cpp(276,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\win10\source\repos\Project3\Project3\main.cpp(424,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\win10\source\repos\Project3\Project3\main.cpp(538,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\win10\source\repos\Project3\Project3\main.cpp(539,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Project3.vcxproj -> C:\Users\win10\source\repos\Project3\Debug\Project3.exe
